@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -44,8 +44,8 @@ namespace projectTask
                     TermsOfService = "None",
                     Contact = new Contact
                     {
-                        Name = "Lucian",
-                        Email = "lucian_balanean@yahoo.com",
+                        Name = "Diana",
+                        Email = "baciudiana1992@gmail.com",
                         Url = ""
                     },
                     License = new License
